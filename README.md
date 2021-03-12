@@ -12,4 +12,4 @@ jakovm47/jakovm47 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 💻 Below are repositories with all the apps I worked on along with URL of each app for you to try it!
+- 💻 Below are repositories with all the apps I worked on along with URL of each app for you to try it !
